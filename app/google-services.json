@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "867726101127",
+    "project_id": "self-development-c7131",
+    "storage_bucket": "self-development-c7131.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867726101127:android:6b95416ac936abf1af0622",
+        "android_client_info": {
+          "package_name": "com.vinade_app.personaldevelopment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "867726101127-gi4fa5ho46ibpf1nijp7i9o0h5jeuanf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQBnbdWuNtnxy-5pW29_8aOmEwc925CE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "867726101127-gi4fa5ho46ibpf1nijp7i9o0h5jeuanf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
