@@ -6,6 +6,9 @@ public class Card {
     ArrayList<String>imageName;
     String idCard, text;
 
+    public Card() {
+    }
+
     public Card(ArrayList<String> imageName, String idCard, String text) {
         this.imageName = imageName;
         this.idCard = idCard;
